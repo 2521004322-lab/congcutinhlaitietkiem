@@ -9,7 +9,7 @@ st.set_page_config(
     layout="centered"
 )
 
-st.title("💰 APP TÍNH LÃI GỬI TIẾT KIỆM")
+st.title("💰 APP TÍNH LÃI GỬI TIẾT KIỆM_Hồ Phạm Ái Thư")
 st.write("Nhập thông tin khoản tiền gửi để tính tiền lãi và tổng số tiền nhận được.")
 
 # =========================
